@@ -44,9 +44,11 @@ Ensure you have the necessary libraries installed. You can install them using pi
 
 ## Contributors
 
+- Omar Yasser (Intake 44 - Smart Village Branch - Group 1)
 - Amira Adel Foda (Intake 42 - Smart Village Branch - Group 2)
 - Asmaa Said (Intake 42 - Smart Village Branch - Group 2)
 - Marawan Mohamed (Intake 42 - Alex. Branch - Group 2)
+
 
 ## License
 
