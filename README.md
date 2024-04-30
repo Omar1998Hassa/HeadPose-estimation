@@ -50,7 +50,5 @@ Ensure you have the necessary libraries installed. You can install them using pi
 - Marawan Mohamed (Intake 42 - Alex. Branch - Group 2)
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
